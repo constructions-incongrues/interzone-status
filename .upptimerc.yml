@@ -33,8 +33,6 @@ sites:
     url: https://www.moncul.org
   - name: nulsidecouvert.org
     url: https://www.nulsidecouvert.org
-  - name: serendip-arts.org
-    url: https://www.serendip-arts.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
