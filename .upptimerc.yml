@@ -33,7 +33,7 @@ sites:
     url: https://www.moncul.org
   - name: nulsidecouvert.org
     url: https://www.nulsidecouvert.org
-  - name: serendip-arts
+  - name: serendip-arts.org
     url: https://www.serendip-arts.org
 
 status-website:
