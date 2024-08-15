@@ -5,6 +5,36 @@ repo: status-interzone # The name of this repository
 sites:
   - name: amandinemeyer.com
     url: https://www.amandinemeyer.com
+  - name: arrachetoiunoeil.fr
+    url: https://www.arrachetoiunoeil.fr
+  - name: brkcore.fr
+    url: https://www.brkcore.fr
+  - name: chipndamned.com
+    url: https://www.chipndamned.com
+  - name: collectionrevue.com
+    url: https://www.collectionrevue.com
+  - name: darlingdada.com
+    url: https://www.darlingdada.com
+  - name: degelite.org
+    url: https://www.degelite.org
+  - name: elisekobischmiana.com
+    url: https://www.elisekobischmiana.com
+  - name: glafouk.com
+    url: https://www.glafouk.com
+  - name: juliadrouhin.com
+    url: https://www.juliadrouhin.com
+  - name: lelaboratoire.be
+    url: https://www.lelaboratoire.be
+  - name: leseditionsduchevet.fr
+    url: https://www.leseditionsduchevet.fr
+  - name: mailleret.fr
+    url: https://www.mailleret.fr
+  - name: moncul.org
+    url: https://www.moncul.org
+  - name: nulsidecouvert.org
+    url: https://www.nulsidecouvert.org
+  - name: serendip-arts
+    url: https://www.serendip-arts.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,5 +46,3 @@ status-website:
   navbar:
     - title: Constructions Incongrues
       href: https://status.constructions-incongrues.net
-    - title: Interzone Network
-      href: https://status.interzone.network
