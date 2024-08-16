@@ -33,7 +33,11 @@ sites:
     url: https://www.moncul.org
   - name: nulsidecouvert.org
     url: https://www.nulsidecouvert.org
-
+  - name: tdm.incongru.org
+    url: https://tdm.incongru.org
+  - name: violentnarcissus.incongru.org
+    url: https://violentnarcissus.incongru.org
+    
 assignees:
   - trivoallan
 
