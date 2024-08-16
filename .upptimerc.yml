@@ -48,11 +48,9 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
-  name: Status
+  name: Interzone Network
   navbar:
     - title: Constructions Incongrues
       href: https://status.constructions-incongrues.net
-    - title: Interzone Network
-      href: https://status.interzone.network
     - title: Pastis Hosting
       href: https://pastis-hosting.net
