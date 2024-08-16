@@ -51,3 +51,7 @@ status-website:
   navbar:
     - title: Constructions Incongrues
       href: https://status.constructions-incongrues.net
+    - title: Interzone Network
+      href: https://status.interzone.network
+    - title: Pastis Hosting
+      href: https://pastis-hosting.net
