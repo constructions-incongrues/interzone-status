@@ -47,7 +47,8 @@ status-website:
   cname: status.interzone.network
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Interzone Network
+  theme: dark
+  name: Status
   navbar:
     - title: Constructions Incongrues
       href: https://status.constructions-incongrues.net
