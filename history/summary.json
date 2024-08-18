@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 649,
+      "2024-08-18": 653,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 183
@@ -174,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 649,
+      "2024-08-18": 653,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 183
@@ -217,7 +217,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 649,
+      "2024-08-18": 653,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 183
@@ -228,19 +228,19 @@
     "url": "https://www.leseditionsduchevet.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.leseditionsduchevet.fr.ico",
     "slug": "leseditionsduchevet-fr",
-    "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.09%",
-    "time": 657,
-    "timeDay": 567,
-    "timeWeek": 657,
-    "timeMonth": 657,
-    "timeYear": 657,
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
+    "time": 686,
+    "timeDay": 784,
+    "timeWeek": 686,
+    "timeMonth": 686,
+    "timeYear": 686,
     "dailyMinutesDown": {
-      "2024-08-18": 1,
+      "2024-08-18": 5,
       "2024-08-15": 33
     }
   },
@@ -261,7 +261,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 649,
+      "2024-08-18": 653,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 183
