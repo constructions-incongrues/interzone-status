@@ -58,19 +58,19 @@
     "url": "https://www.chipndamned.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chipndamned.com.ico",
     "slug": "chipndamned-com",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
-    "time": 507,
-    "timeDay": 451,
-    "timeWeek": 507,
-    "timeMonth": 507,
-    "timeYear": 507,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 592,
+    "timeDay": 987,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2024-08-18": 3,
+      "2024-08-18": 6,
       "2024-08-15": 16
     }
   },
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 437,
+      "2024-08-18": 443,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 183
@@ -174,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 437,
+      "2024-08-18": 443,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 183
@@ -217,7 +217,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 437,
+      "2024-08-18": 443,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 183
@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 437,
+      "2024-08-18": 443,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 183
@@ -311,19 +311,19 @@
     "url": "https://tdm.incongru.org",
     "icon": "https://icons.duckduckgo.com/ip3/tdm.incongru.org.ico",
     "slug": "tdm-incongru-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 812,
-    "timeDay": 724,
-    "timeWeek": 812,
-    "timeMonth": 812,
-    "timeYear": 812,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 3976,
+    "timeDay": 11845,
+    "timeWeek": 3976,
+    "timeMonth": 3976,
+    "timeYear": 3976,
     "dailyMinutesDown": {
-      "2024-08-18": 0
+      "2024-08-18": 5
     }
   },
   {
