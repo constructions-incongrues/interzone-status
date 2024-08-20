@@ -23,12 +23,14 @@ sites:
     url: https://www.glafouk.com
   - name: juliadrouhin.com
     url: https://www.juliadrouhin.com
+  - name: julien.mailleret.fr
+    url: https://julien.mailleret.fr
   - name: lelaboratoire.be
     url: https://www.lelaboratoire.be
   - name: leseditionsduchevet.fr
-    url: https://www.leseditionsduchevet.fr
-  - name: mailleret.fr
-    url: https://www.mailleret.fr
+    url: https://www.leseditionsduchevet.fr  
+  - name: lesetoilesflottantes.incongru.org
+    url: https://lesetoilesflottantes.incongru.org
   - name: moncul.org
     url: https://www.moncul.org
   - name: nulsidecouvert.org
