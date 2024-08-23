@@ -54,6 +54,8 @@ status-website:
   navbar:
     - title: Constructions
       href: https://status.constructions-incongrues.net
+    - title: Jean-Cloude
+      href: https://status.jeancloude.club
     - title: Pantagruweb
       href: https://status.pantagruweb.club
     - title: Pastis
