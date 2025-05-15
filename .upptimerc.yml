@@ -23,6 +23,11 @@ sites:
     url: https://www.juliadrouhin.com
   - name: lelaboratoire.be
     url: https://www.lelaboratoire.be
+  - name: lesbarques.org
+    url: https://www.lesbarques.org
+    assignees:
+      - trivoallan
+      - UolpUb
   - name: leseditionsduchevet.fr
     url: https://www.leseditionsduchevet.fr  
   - name: lesetoilesflottantes.incongru.org
