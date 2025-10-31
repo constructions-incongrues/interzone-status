@@ -139,7 +139,7 @@
     "timeMonth": 547,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2025-10-31": 326,
+      "2025-10-31": 337,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -668,19 +668,19 @@
     "url": "https://violentnarcissus.incongru.org",
     "icon": "https://icons.duckduckgo.com/ip3/violentnarcissus.incongru.org.ico",
     "slug": "violentnarcissus-incongru-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1185,
-    "timeDay": 2017,
-    "timeWeek": 2047,
-    "timeMonth": 2091,
-    "timeYear": 1295,
+    "time": 1190,
+    "timeDay": 2640,
+    "timeWeek": 2199,
+    "timeMonth": 2127,
+    "timeYear": 1300,
     "dailyMinutesDown": {
-      "2025-10-31": 1,
+      "2025-10-31": 10,
       "2025-08-30": 109
     }
   }
