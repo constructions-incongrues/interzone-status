@@ -1,7 +1,7 @@
 url: https://www.lesbarques.org
-status: up
-code: 200
-responseTime: 383
-lastUpdated: 2025-11-18T12:11:06.192Z
+status: down
+code: 500
+responseTime: 141
+lastUpdated: 2025-11-18T12:26:03.987Z
 startTime: 2025-05-15T19:46:23.987Z
 generator: Upptime <https://github.com/upptime/upptime>
